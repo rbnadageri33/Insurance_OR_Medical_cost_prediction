@@ -3,6 +3,7 @@
 # Dataset Information
 The dataset used in this project provides information about health insurance beneficiaries and their medical costs. It includes the following columns:
 Variable	Description
+
 age	age of primary beneficiary
 bmi	body mass index
 children	number of children covered by health insurance
