@@ -4,17 +4,17 @@
 The dataset used in this project provides information about health insurance beneficiaries and their medical costs. It includes the following columns:
 Variable	Description
 
-age	age of primary beneficiary
+Age - 	age of primary beneficiary
 
-bmi	body mass index
+BMI -	body mass index
 
-children	number of children covered by health insurance
+Children -	number of children covered by health insurance
 
-smoker	smoking
+Smoker -	smoking
 
-region	the beneficiary's residential area in the US
+Region -	the beneficiary's residential area in the US
 
-charges	individual medical costs billed by health insurance
+Charges - 	individual medical costs billed by health insurance
 
 
 # Approach
